@@ -57,7 +57,6 @@ myApp.controller('timerCtrl', ['$scope', '$timeout', 'initService', function ($s
     }
 
     function stopTimer() {
-        var dt = new Date();
         $scope.mode = "Start";
         $timeout.cancel(tmPromise);
         $scope.time = "00:00:00"
