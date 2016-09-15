@@ -5,8 +5,8 @@ who took how much time.
 
 ## Usage
 Pretty Self Explanatory
-1. Click on the timer to start or stop it.
-2. Add a new user and use the dropdown to select existing users.
+  1. Click on the timer to start or stop it.
+  2. Add a new user and use the dropdown to select existing users.
 
 ## Directory Layout
 
